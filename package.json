@@ -1,0 +1,21 @@
+{
+  "name": "quote-teller",
+  "version": "1.0.12",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "quote": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "Yashmit Sagari",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.1",
+    "figlet": "^1.5.2",
+    "yargs": "^16.1.1"
+  }
+}
